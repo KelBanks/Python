@@ -1,2 +1,2 @@
 # Python-practice
-Simple numbers guessing game with small modifications.
+Place to practice Python programming.
