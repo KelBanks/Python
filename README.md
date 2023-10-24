@@ -1,2 +1,2 @@
 # Python-practice
-Place to practice Python programming.
+Simple Python programs.
